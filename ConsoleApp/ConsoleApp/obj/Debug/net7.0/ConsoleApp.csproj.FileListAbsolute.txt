@@ -1,0 +1,15 @@
+/Users/arjunprakash/Projects/secondRepo/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/arjunprakash/Projects/secondRepo/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/arjunprakash/Projects/secondRepo/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/arjunprakash/Projects/secondRepo/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/arjunprakash/Projects/secondRepo/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/arjunprakash/Projects/secondRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/arjunprakash/Projects/secondRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjunprakash/Projects/secondRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/arjunprakash/Projects/secondRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/arjunprakash/Projects/secondRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/arjunprakash/Projects/secondRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/arjunprakash/Projects/secondRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/arjunprakash/Projects/secondRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/arjunprakash/Projects/secondRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/arjunprakash/Projects/secondRepo/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
